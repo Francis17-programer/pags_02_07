@@ -130,7 +130,7 @@ body {
     margin: 0 auto;
 }
 
-@media (max-width: 760px) {
+(max-width: 760px) {
     .nav-links {
         gap: 14px;
     }
